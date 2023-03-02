@@ -17,7 +17,9 @@ just :
 it is simple, easy and support any chcaracter in any language.
 
 ================================================================================
+
 How to use:
+
 1- login in desktop telegram with same phone number that you used to loging in telegram before lossing contacts.
 2- export contacts as html file
 3- place html file with its folders in folder of RestoreContacts.py
