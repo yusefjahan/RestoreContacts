@@ -8,7 +8,7 @@
 
 # RestoreContacts
 hi
-if you loss your device contacts...don't worry! with this python codes you can restore them!
+if you loss your device contacts...don't worry! with this python codes you must can restore them!
 just :
 
 1- before lossing contacts you must have telegram installed on device...
