@@ -8,7 +8,7 @@ just :
 
 it is simple, easy and support any chcaracter in any language.
 
-===========================================================================================
+================================================================================
 How to use:
 1- login in desktop telegram with same phone number that you used to loging in telegram before lossing contacts.
 2- export contacts as html file
@@ -18,7 +18,7 @@ How to use:
 6- transfer it to your phone and install contacts.
 7- ENJOY!
 
-===========================================================================================
+=================================================================================
 
 contact me :
 
@@ -27,3 +27,8 @@ yusefjahan@gmail.com
 
 telegram:
 https://t.me/Yjahan
+
+=================================================================================
+
+
+![](https://komarev.com/ghpvc/?username=yusefjahan)
