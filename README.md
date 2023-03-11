@@ -66,12 +66,7 @@ This program is free... but if you help me i can countinue and make better and b
  
  
  
- 
- <!-- Statistics by www.1abzar.com --->
-<script type="text/javascript" src="https://1abzar.ir/abzar/tools/stat/amar-v3.php?color=333333&bg=F7F4D9&kc=888888&kadr=1&amar=nnfcxi33mbv10nk1h9rn24ntw82yio&show=1|1|1|1|0|1|1"></script><div style="display:none"><h3><a href="https://www.1abzar.com/abzar/stat.php">&#1570;&#1605;&#1575;&#1585;&#1711;&#1740;&#1585; &#1608;&#1576;&#1604;&#1575;&#1711;</a></h3></div>
-<!-- Statistics by www.1abzar.com --->
- 
- 
+
 
 
 
